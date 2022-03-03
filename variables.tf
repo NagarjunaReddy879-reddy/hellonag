@@ -1,0 +1,12 @@
+variable "region" {}
+variable "profile" {}
+variable "vpc_name" {}
+variable "cidr_block" {}
+variable "azs" {}
+variable "public_subnet_cidr" {}
+variable "private_subnet_cidr" {}
+#variable "imagename" {}
+variable "key_name" {}
+variable "instance_type" {}
+variable "amis" {}
+variable "env" {}
